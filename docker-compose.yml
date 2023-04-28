@@ -1,0 +1,9 @@
+
+services:
+        nginx:
+
+                image: ngnixdesafiofinal 
+                ports:
+                        - "8090:80"
+                 
+
